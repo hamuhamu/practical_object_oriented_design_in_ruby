@@ -1,0 +1,2 @@
+# practical_object_oriented_design_in_ruby
+オブジェクト指向設計実践ガイドの写経
